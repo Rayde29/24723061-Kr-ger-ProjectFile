@@ -1,0 +1,378 @@
+PWD c:\Users\Rayde Kruger\OneDrive\Desktop\Skripsie\Skripsie_LaTeX\template-stb-report-eng
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Rayde Kruger\OneDrive\Desktop\Skripsie\Skripsie_LaTeX\template-stb-report-eng\template-stb-report-eng.tex
+OUTPUT template-stb-report-eng.log
+INPUT D:\New folder\tex\latex\base\book.cls
+INPUT D:\New folder\tex\latex\base\book.cls
+INPUT D:\New folder\tex\latex\base\bk12.clo
+INPUT D:\New folder\tex\latex\base\bk12.clo
+INPUT D:\New folder\tex\latex\base\bk12.clo
+INPUT D:\New folder\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\New folder\tex\latex\stellenbosch-2\stb-titlepage.sty
+INPUT D:\New folder\tex\latex\stellenbosch-2\stb-titlepage.sty
+INPUT D:\New folder\tex\latex\etoolbox\etoolbox.sty
+INPUT D:\New folder\tex\latex\etoolbox\etoolbox.sty
+INPUT D:\New folder\tex\latex\base\ifthen.sty
+INPUT D:\New folder\tex\latex\base\ifthen.sty
+INPUT D:\New folder\tex\latex\kvoptions\kvoptions.sty
+INPUT D:\New folder\tex\latex\kvoptions\kvoptions.sty
+INPUT D:\New folder\tex\latex\graphics\keyval.sty
+INPUT D:\New folder\tex\latex\graphics\keyval.sty
+INPUT D:\New folder\tex\generic\ltxcmds\ltxcmds.sty
+INPUT D:\New folder\tex\generic\ltxcmds\ltxcmds.sty
+INPUT D:\New folder\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT D:\New folder\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT D:\New folder\tex\latex\geometry\geometry.sty
+INPUT D:\New folder\tex\latex\geometry\geometry.sty
+INPUT D:\New folder\tex\generic\iftex\ifvtex.sty
+INPUT D:\New folder\tex\generic\iftex\ifvtex.sty
+INPUT D:\New folder\tex\generic\iftex\iftex.sty
+INPUT D:\New folder\tex\generic\iftex\iftex.sty
+INPUT D:\New folder\tex\latex\geometry\geometry.cfg
+INPUT D:\New folder\tex\latex\geometry\geometry.cfg
+INPUT D:\New folder\tex\latex\geometry\geometry.cfg
+INPUT D:\New folder\tex\latex\amsmath\amsmath.sty
+INPUT D:\New folder\tex\latex\amsmath\amsmath.sty
+INPUT D:\New folder\tex\latex\amsmath\amsopn.sty
+INPUT D:\New folder\tex\latex\amsmath\amstext.sty
+INPUT D:\New folder\tex\latex\amsmath\amstext.sty
+INPUT D:\New folder\tex\latex\amsmath\amsgen.sty
+INPUT D:\New folder\tex\latex\amsmath\amsgen.sty
+INPUT D:\New folder\tex\latex\amsmath\amsbsy.sty
+INPUT D:\New folder\tex\latex\amsmath\amsbsy.sty
+INPUT D:\New folder\tex\latex\amsmath\amsopn.sty
+INPUT D:\New folder\tex\latex\base\inputenc.sty
+INPUT D:\New folder\tex\latex\base\inputenc.sty
+INPUT D:\New folder\tex\latex\base\textcomp.sty
+INPUT D:\New folder\tex\latex\base\textcomp.sty
+INPUT D:\New folder\tex\latex\base\fontenc.sty
+INPUT D:\New folder\tex\latex\base\fontenc.sty
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT D:\New folder\tex\latex\tools\bm.sty
+INPUT D:\New folder\tex\latex\tools\bm.sty
+INPUT D:\New folder\tex\latex\siunitx\siunitx.sty
+INPUT D:\New folder\tex\latex\siunitx\siunitx.sty
+INPUT D:\New folder\tex\latex\translations\translations.sty
+INPUT D:\New folder\tex\latex\translations\translations.sty
+INPUT D:\New folder\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT D:\New folder\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT D:\New folder\tex\generic\infwarerr\infwarerr.sty
+INPUT D:\New folder\tex\generic\infwarerr\infwarerr.sty
+INPUT D:\New folder\tex\latex\tools\array.sty
+INPUT D:\New folder\tex\latex\tools\array.sty
+INPUT D:\New folder\tex\latex\stellenbosch-2\stb-nomencl.sty
+INPUT D:\New folder\tex\latex\stellenbosch-2\stb-nomencl.sty
+INPUT D:\New folder\tex\latex\tools\calc.sty
+INPUT D:\New folder\tex\latex\tools\calc.sty
+INPUT D:\New folder\tex\latex\stellenbosch-2\stb-bib.sty
+INPUT D:\New folder\tex\latex\stellenbosch-2\stb-bib.sty
+INPUT D:\New folder\tex\latex\natbib\natbib.sty
+INPUT D:\New folder\tex\latex\natbib\natbib.sty
+INPUT D:\New folder\tex\latex\tools\longtable.sty
+INPUT D:\New folder\tex\latex\tools\longtable.sty
+INPUT D:\New folder\tex\latex\graphics\graphicx.sty
+INPUT D:\New folder\tex\latex\graphics\graphicx.sty
+INPUT D:\New folder\tex\latex\graphics\graphics.sty
+INPUT D:\New folder\tex\latex\graphics\graphics.sty
+INPUT D:\New folder\tex\latex\graphics\trig.sty
+INPUT D:\New folder\tex\latex\graphics\trig.sty
+INPUT D:\New folder\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\New folder\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\New folder\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\New folder\tex\latex\graphics-def\pdftex.def
+INPUT D:\New folder\tex\latex\graphics-def\pdftex.def
+INPUT D:\New folder\tex\latex\graphics-def\pdftex.def
+INPUT D:\New folder\tex\latex\caption\caption.sty
+INPUT D:\New folder\tex\latex\caption\caption.sty
+INPUT D:\New folder\tex\latex\caption\caption3.sty
+INPUT D:\New folder\tex\latex\caption\caption3.sty
+INPUT D:\New folder\tex\latex\caption\ltcaption.sty
+INPUT D:\New folder\tex\latex\caption\ltcaption.sty
+INPUT D:\New folder\tex\latex\xcolor\xcolor.sty
+INPUT D:\New folder\tex\latex\xcolor\xcolor.sty
+INPUT D:\New folder\tex\latex\graphics-cfg\color.cfg
+INPUT D:\New folder\tex\latex\graphics-cfg\color.cfg
+INPUT D:\New folder\tex\latex\graphics-cfg\color.cfg
+INPUT D:\New folder\tex\latex\graphics\mathcolor.ltx
+INPUT D:\New folder\tex\latex\graphics\mathcolor.ltx
+INPUT D:\New folder\tex\latex\graphics\mathcolor.ltx
+INPUT D:\New folder\tex\latex\colortbl\colortbl.sty
+INPUT D:\New folder\tex\latex\colortbl\colortbl.sty
+INPUT D:\New folder\tex\latex\graphics\color.sty
+INPUT D:\New folder\tex\latex\eso-pic\eso-pic.sty
+INPUT D:\New folder\tex\latex\eso-pic\eso-pic.sty
+INPUT D:\New folder\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\New folder\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\template-stb-report-eng.aux
+INPUT .\template-stb-report-eng.aux
+INPUT template-stb-report-eng.aux
+INPUT .\chaps-front\chap-plagiarism.aux
+INPUT .\chaps-front\chap-plagiarism.aux
+INPUT chaps-front\chap-plagiarism.aux
+INPUT .\chaps-front\chap-summary.aux
+INPUT .\chaps-front\chap-summary.aux
+INPUT chaps-front\chap-summary.aux
+INPUT .\chaps-front\chap-acknowledge.aux
+INPUT .\chaps-front\chap-acknowledge.aux
+INPUT chaps-front\chap-acknowledge.aux
+INPUT .\chaps-front\chap-symbols.aux
+INPUT .\chaps-front\chap-symbols.aux
+INPUT chaps-front\chap-symbols.aux
+INPUT .\chaps-main\chap-intro.aux
+INPUT .\chaps-main\chap-intro.aux
+INPUT chaps-main\chap-intro.aux
+INPUT .\chaps-main\chap-literature.aux
+INPUT .\chaps-main\chap-literature.aux
+INPUT chaps-main\chap-literature.aux
+INPUT .\chaps-main\chap-content-A.aux
+INPUT .\chaps-main\chap-content-A.aux
+INPUT chaps-main\chap-content-A.aux
+INPUT .\chaps-main\chap-conclusion.aux
+INPUT .\chaps-main\chap-conclusion.aux
+INPUT chaps-main\chap-conclusion.aux
+INPUT .\chaps-append\chap-maths.aux
+INPUT .\chaps-append\chap-maths.aux
+INPUT chaps-append\chap-maths.aux
+INPUT .\chaps-append\chap-experiment.aux
+INPUT .\chaps-append\chap-experiment.aux
+INPUT chaps-append\chap-experiment.aux
+OUTPUT template-stb-report-eng.aux
+INPUT D:\New folder\tex\latex\stellenbosch-2\figs\stb-logo-vert.pdf
+INPUT D:\New folder\tex\latex\stellenbosch-2\figs\stb-logo-vert.pdf
+INPUT D:\New folder\tex\latex\stellenbosch-2\figs\stb-logo-vert.pdf
+OUTPUT template-stb-report-eng.pdf
+INPUT D:\New folder\tex\latex\stellenbosch-2\figs\stb-logo-vert.pdf
+INPUT D:\New folder\tex\latex\stellenbosch-2\figs\stb-logo-vert.pdf
+INPUT D:\New folder\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT D:\New folder\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT D:\New folder\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT D:\New folder\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\New folder\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\New folder\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\New folder\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\New folder\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\New folder\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\New folder\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\New folder\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecrm2074.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecbx2074.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecrm1440.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbx10.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbx7.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmmib10.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmmib10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmmib7.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbsy10.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbsy10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecrm1728.tfm
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\chaps-front\chap-plagiarism.tex
+INPUT .\chaps-front\chap-plagiarism.tex
+OUTPUT chaps-front\chap-plagiarism.aux
+INPUT .\chaps-front\chap-plagiarism.tex
+INPUT .\chaps-front\chap-plagiarism.tex
+INPUT chaps-front\chap-plagiarism.tex
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecrm2488.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecbx2488.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmr8.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmr6.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmmi8.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmmi6.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmsy8.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmsy6.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbx8.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbx6.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmmib10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmmib8.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmmib6.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbsy10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmbsy8.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmbsy6.tfm
+INPUT .\chaps-front\chap-summary.tex
+INPUT .\chaps-front\chap-summary.tex
+OUTPUT chaps-front\chap-summary.aux
+INPUT .\chaps-front\chap-summary.tex
+INPUT .\chaps-front\chap-summary.tex
+INPUT chaps-front\chap-summary.tex
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecbx1200.tfm
+INPUT .\chaps-front\chap-acknowledge.tex
+INPUT .\chaps-front\chap-acknowledge.tex
+OUTPUT chaps-front\chap-acknowledge.aux
+INPUT .\chaps-front\chap-acknowledge.tex
+INPUT .\chaps-front\chap-acknowledge.tex
+INPUT chaps-front\chap-acknowledge.tex
+INPUT .\template-stb-report-eng.toc
+INPUT .\template-stb-report-eng.toc
+INPUT template-stb-report-eng.toc
+OUTPUT template-stb-report-eng.toc
+INPUT .\template-stb-report-eng.lof
+INPUT .\template-stb-report-eng.lof
+INPUT template-stb-report-eng.lof
+OUTPUT template-stb-report-eng.lof
+INPUT .\template-stb-report-eng.lot
+INPUT .\template-stb-report-eng.lot
+INPUT template-stb-report-eng.lot
+OUTPUT template-stb-report-eng.lot
+INPUT .\chaps-front\chap-symbols.tex
+INPUT .\chaps-front\chap-symbols.tex
+OUTPUT chaps-front\chap-symbols.aux
+INPUT .\chaps-front\chap-symbols.tex
+INPUT .\chaps-front\chap-symbols.tex
+INPUT chaps-front\chap-symbols.tex
+INPUT D:\New folder\fonts\tfm\public\cm\cmti12.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmti8.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmti7.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecrm0600.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecrm0800.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT .\chaps-main\chap-intro.tex
+INPUT .\chaps-main\chap-intro.tex
+OUTPUT chaps-main\chap-intro.aux
+INPUT .\chaps-main\chap-intro.tex
+INPUT .\chaps-main\chap-intro.tex
+INPUT chaps-main\chap-intro.tex
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecbx1728.tfm
+INPUT .\chaps-main\chap-literature.tex
+INPUT .\chaps-main\chap-literature.tex
+OUTPUT chaps-main\chap-literature.aux
+INPUT .\chaps-main\chap-literature.tex
+INPUT .\chaps-main\chap-literature.tex
+INPUT chaps-main\chap-literature.tex
+INPUT .\chaps-main\chap-content-A.tex
+INPUT .\chaps-main\chap-content-A.tex
+OUTPUT chaps-main\chap-content-A.aux
+INPUT .\chaps-main\chap-content-A.tex
+INPUT .\chaps-main\chap-content-A.tex
+INPUT chaps-main\chap-content-A.tex
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecbx1440.tfm
+INPUT D:\New folder\tex\latex\base\t1cmtt.fd
+INPUT D:\New folder\tex\latex\base\t1cmtt.fd
+INPUT D:\New folder\tex\latex\base\t1cmtt.fd
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ectt1200.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT .\figs\waterplants.jpg
+INPUT .\figs\waterplants.jpg
+INPUT .\figs\waterplants.jpg
+INPUT .\figs\waterplants.jpg
+INPUT .\figs\waterplants.jpg
+INPUT .\figs\waterplants.jpg
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecsl1200.tfm
+INPUT .\chaps-main\chap-conclusion.tex
+INPUT .\chaps-main\chap-conclusion.tex
+OUTPUT chaps-main\chap-conclusion.aux
+INPUT .\chaps-main\chap-conclusion.tex
+INPUT .\chaps-main\chap-conclusion.tex
+INPUT chaps-main\chap-conclusion.tex
+INPUT .\chaps-append\chap-maths.tex
+INPUT .\chaps-append\chap-maths.tex
+OUTPUT chaps-append\chap-maths.aux
+INPUT .\chaps-append\chap-maths.tex
+INPUT .\chaps-append\chap-maths.tex
+INPUT chaps-append\chap-maths.tex
+INPUT .\chaps-append\chap-experiment.tex
+INPUT .\chaps-append\chap-experiment.tex
+OUTPUT chaps-append\chap-experiment.aux
+INPUT .\chaps-append\chap-experiment.tex
+INPUT .\chaps-append\chap-experiment.tex
+INPUT chaps-append\chap-experiment.tex
+INPUT .\template-stb-report-eng.bbl
+INPUT .\template-stb-report-eng.bbl
+INPUT template-stb-report-eng.bbl
+INPUT D:\New folder\tex\latex\stellenbosch-2\stb-bib.eng
+INPUT D:\New folder\tex\latex\stellenbosch-2\stb-bib.eng
+INPUT D:\New folder\tex\latex\stellenbosch-2\stb-bib.eng
+INPUT D:\New folder\fonts\tfm\jknappen\ec\ecti1095.tfm
+INPUT template-stb-report-eng.aux
+INPUT .\chaps-front\chap-plagiarism.aux
+INPUT .\chaps-front\chap-plagiarism.aux
+INPUT chaps-front\chap-plagiarism.aux
+INPUT .\chaps-front\chap-summary.aux
+INPUT .\chaps-front\chap-summary.aux
+INPUT chaps-front\chap-summary.aux
+INPUT .\chaps-front\chap-acknowledge.aux
+INPUT .\chaps-front\chap-acknowledge.aux
+INPUT chaps-front\chap-acknowledge.aux
+INPUT .\chaps-front\chap-symbols.aux
+INPUT .\chaps-front\chap-symbols.aux
+INPUT chaps-front\chap-symbols.aux
+INPUT .\chaps-main\chap-intro.aux
+INPUT .\chaps-main\chap-intro.aux
+INPUT chaps-main\chap-intro.aux
+INPUT .\chaps-main\chap-literature.aux
+INPUT .\chaps-main\chap-literature.aux
+INPUT chaps-main\chap-literature.aux
+INPUT .\chaps-main\chap-content-A.aux
+INPUT .\chaps-main\chap-content-A.aux
+INPUT chaps-main\chap-content-A.aux
+INPUT .\chaps-main\chap-conclusion.aux
+INPUT .\chaps-main\chap-conclusion.aux
+INPUT chaps-main\chap-conclusion.aux
+INPUT .\chaps-append\chap-maths.aux
+INPUT .\chaps-append\chap-maths.aux
+INPUT chaps-append\chap-maths.aux
+INPUT .\chaps-append\chap-experiment.aux
+INPUT .\chaps-append\chap-experiment.aux
+INPUT chaps-append\chap-experiment.aux
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk
+INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmib10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmib10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmti12.pfb

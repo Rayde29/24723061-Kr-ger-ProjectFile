@@ -1,0 +1,1022 @@
+Target Speed,Current Speed,Target Pitch,Current Pitch 1,Current Pitch 2,,,,,
+50,200,0,0,79,,,,,
+50,200,0,0,79,,,,,
+50,200,0,0,80,,,,,
+50,200,0,0,80,,,,,
+50,200,0,0,80,,,,,
+50,200,0,0,80,,,,,
+50,200,0,0,80,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-235_*
+50,200,0,0,80,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,79,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,79,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,79,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,79,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,0,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,0,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,0,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,0,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,0,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,0,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,0,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,0,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,0,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,1,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,2,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-235_*
+50,200,0,0,4,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-235_*
+50,200,0,0,3,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,4,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,4,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,4,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,4,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-234_*
+50,200,0,0,3,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-235_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-235_*
+50,200,0,0,3,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,4,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_20_0_-235_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_20_0_-235_*
+50,200,0,0,3,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 20.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,3,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,3,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,10,0,3,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,10,0,3,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,10,0,-4,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,10,0,-48,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,10,0,-64,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,10,0,-70,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,10,0,-70,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,10,0,-70,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,10,0,-69,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,10,0,-69,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,10,0,-69,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,10,0,-69,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,10,0,-69,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,10,0,-86,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,10,0,-166,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,10,0,-205,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,10,0,-222,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,10,0,-229,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,10,0,-232,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,20,0,-233,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,20,0,-234,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,20,0,-234,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,20,0,-234,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,20,0,-234,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,20,0,-234,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,20,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,20,0,-234,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,20,0,-234,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,20,0,-234,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,20,0,-234,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,20,0,-234,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,20,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,20,0,-234,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,20,0,-234,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,20,0,-234,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,20,0,-234,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,20,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,20,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,30,0,-235,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,30,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,30,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,30,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,30,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,30,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,30,0,-235,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,30,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,30,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,30,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,30,0,-234,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,30,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,30,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,30,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,30,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,30,0,-234,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,30,0,-234,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,30,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,30,0,-235,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-234,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-234,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-234_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-234_*
+50,200,0,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+50,200,0,0,-235,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+50,200,0,0,-235,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-234_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-234_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-234_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-234_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_30_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_30_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 30.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000001_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_60.00_60.00_25.00_60.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-234_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-234_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-234_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-234_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -234.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> STOP&_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> STOP&_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Raw data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,DEBUG: CDC Data received -> &_DATA_50.00_200.00_0_0_-235_*
+,,,,,,,,,"DEBUG: Parsed Data -> Target Speed: 50.0, Current Speed: 200.0, Target Pitch: 0.0, Current Pitch 1: 0.0, Current Pitch 2: -235.0"
+,,,,,,,,,DEBUG: Raw data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Raw data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: Control message -> &_PWM_25.00_25.00_25.00_25.00_25.00_*
+,,,,,,,,,DEBUG: CDC Data received -> &_PID_1.000000_1.350000_0.250000_*
+,,,,,,,,,DEBUG: Control message -> &_PID_1.000000_1.350000_0.250000_*

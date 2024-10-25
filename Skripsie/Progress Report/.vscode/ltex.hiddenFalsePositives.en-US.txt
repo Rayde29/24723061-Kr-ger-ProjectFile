@@ -1,0 +1,1 @@
+{"rule":"REPEATED_VERBS","sentence":"^\\QThis top bearing bears the weight of the hub and rotor before the thrust produced equals the weight of the\\E$"}
